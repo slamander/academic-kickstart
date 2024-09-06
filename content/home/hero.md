@@ -28,7 +28,7 @@ hero_media = "badge_kentucki.png"
   
     [cta]
   url = "files/cv.pdf"
-  label = "Curriculum Vitae (8-8-2024)"
+  label = "Curriculum Vitae (9-6-2024)"
   icon_pack = "fas"
   icon = "download"
 
