@@ -21,7 +21,7 @@ links:
   icon_pack: fas
   name: Wetlands paper
   url: https://doi.org/10.1007/s13157-017-0966-5
-    - icon: file-alt
+- icon: file-alt
   icon_pack: fas
   name: Eco&Evo paper
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4736
